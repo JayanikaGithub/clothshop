@@ -2,7 +2,7 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://o.remove.bg/downloads/bd823498-de44-45e3-b222-830915901ba3/21993022_1365755570203466_2683410099515220765_o-removebg-preview.png",
-      title: "SUMMER SALE",
+      title: "NAVIGATION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "faabb9",
     },
