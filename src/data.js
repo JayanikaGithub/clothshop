@@ -64,15 +64,15 @@ export const sliderItems = [
     },
     {
       id:5,
-      img:"https://img3.junaroad.com/uiproducts/17371475/pri_175_p-1603726347.jpg",
+      img:"https://image.made-in-china.com/43f34j00oEHfGrYFIzqc/Latest-Fashion-Pink-Color-Tops-Sexy-off-Shoulder-Long-Sleeve-of-Ruffies-Short-Tops-Blouse-for-Women-Shirt.jpg",
     },
     {
       id:6,
-      img:"https://www.pngall.com/wp-content/uploads/7/Blouse.png",
+      img:"https://m.media-amazon.com/images/I/514cVoiI+QL._AC_UL320_.jpg",
     },
     {
       id:7,
-      img:"https://m.media-amazon.com/images/I/51l9kwCU1WL._UX569_.jpg",
+      img:"https://di2ponv0v5otw.cloudfront.net/posts/2022/02/07/6200dd2ee13164f147336953/s_6200dd2ee13164f147336954.jpg",
     },
     {
       id:8,
